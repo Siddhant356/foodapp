@@ -1,0 +1,17 @@
+/*<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Font+Name">
+*/
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	font-family: 'Crimson Pro', serif;
+
+}
